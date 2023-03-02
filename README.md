@@ -11,9 +11,9 @@ A Bluetooth Robot can be controlled through a Bluetooth device connected to Ardu
 1. Arduino IDE
 2. MIT App inverter 
 # Hardware component requires : 
-1. Arduino Uno-https://www.amazon.in/Arduino-Uno-ATmega328P-USB-Cable/dp/B01LCN8IRK/ref=sr_1_4?keywords=arduino&qid=1677779967&sr=8-4
+1. Arduino Uno
 2. Arduino Nano 
-3 .5 pin flame sensor 
+3. 5 pin flame sensor 
 4. Single pin flame sensor
 5. L298N 2A motor driver
 6. 16×2 LCD display
