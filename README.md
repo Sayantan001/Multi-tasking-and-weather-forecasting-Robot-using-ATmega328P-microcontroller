@@ -19,6 +19,8 @@ It can do a lot of tasks like avoiding Obstacles, Line following etc.
 12. 4 - Dual shaft BO motor 
 13. 12v buzzer
 14. HC05 Bluetooth module
+# Code Explanation:
+![](images/
 # Instructions: 
 I usually prefer PCB Design rather than Breadboard and wires. Cause of its compactness and durability. 
 After connecting according to the circuit first upload the Arduino Nano code to Arduino Nano. Info - you should install the DHT11 library and liquidcrystal.h in your Arduino IDE Software. Then the LCD display should show the current humidity and temperature. Also the flame sensor should react with the buzzer while it detects fire. 
