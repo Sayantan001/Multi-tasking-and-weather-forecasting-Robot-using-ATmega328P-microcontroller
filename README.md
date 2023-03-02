@@ -20,7 +20,9 @@ It can do a lot of tasks like avoiding Obstacles, Line following etc.
 13. 12v buzzer
 14. HC05 Bluetooth module
 # Code Explanation:
-![](images/
+![](images/code1.png)
+First of all we have to install the SoftwareSerial.h and IRremote.h library. Then we will define the variable and constant input and output pins,IR receiver pin as A5 and motor driver pins enA,enB, motor1 and motor2. As well as the servo and ultrasonic sensor trigger and echo pins.Bluetooth input data as bt_ir_data.
+
 # Instructions: 
 I usually prefer PCB Design rather than Breadboard and wires. Cause of its compactness and durability. 
 After connecting according to the circuit first upload the Arduino Nano code to Arduino Nano. Info - you should install the DHT11 library and liquidcrystal.h in your Arduino IDE Software. Then the LCD display should show the current humidity and temperature. Also the flame sensor should react with the buzzer while it detects fire. 
