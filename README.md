@@ -1,5 +1,6 @@
-# All-in-one-Robot-Car
-Hello, Everyone. This project is named as "All in one Robot Car" Cause of its capabilities and efficiency. This is an unarmed vehicle made by using IOT and Electronics components.
+# Multi-tasking and Weather forecasting Robot using ATmega328P microcontroller
+
+Hello, Everyone. This project is named as "Multi-tasking and Weather forecasting Robot" Cause of its capabilities and efficiency. This is an unarmed vehicle made by using IOT and Electronics components.
 An obstacle avoiding robot is a fully autonomous robot which can be able to avoid any obstacle which it faces when it moves. Simply, when it met an obstacle while it’s moving forward, automatically stop moving forward and makes a step back. Then it looks it's two sides left & right and starts to move the best possible way, which means either in left direction if there is another obstacle in right or in right direction if there is another obstacle in left side. The obstacle avoiding robot is very helpful and it is the base of many large projects such as Automatic cars, robots used in Manufacturing factories, even in robots used in spacecrafts.
 
 A line tracking robot use some infrared proximity sensors to detect the line and based on input received from the sensors, the Arduino will direct the motors to move with the help of a motor drive.
